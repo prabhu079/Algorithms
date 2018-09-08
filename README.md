@@ -1,2 +1,1 @@
-# SortingAlgos
-Sorting Algos in Scala
+# Algos in Scala
